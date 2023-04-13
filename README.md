@@ -21,4 +21,4 @@ I want the tasks to be stored so that they remain in the planner when the page i
 
 ## Deployed Link
 
-[Link to quiz](https://winstonheard.github.io/work-day-planner/) 
+[Link to planner](https://winstonheard.github.io/work-day-planner/) 
